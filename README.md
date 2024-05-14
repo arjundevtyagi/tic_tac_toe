@@ -1,0 +1,2 @@
+#ABOUT
+The Tic Tac Toe project is a web-based implementation of the classic two-player game, designed to be played in a browser environment. Comprising HTML, CSS, and JavaScript, this project encapsulates the essence of simplicity and interactivity. The fundamental goal is to create an engaging user interface, allowing players to take turns marking spaces on a 3×3 grid, with the objective of achieving a horizontal, vertical, or diagonal alignment of their chosen symbol (‘X’ or ‘O’).
